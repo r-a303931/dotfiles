@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export WINEPREFIX=/home/arioux/Games/origin
+
+cd /home/arioux/Games/origin/drive_c/Program\ Files\ \(x86\)/Command\ and\ Conquer\ Generals\ Zero\ Hour/Command\ and\ Conquer\ Generals\ Zero\ Hour/
+
+wine ShockWaveLauncher.exe

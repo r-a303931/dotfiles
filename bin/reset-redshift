@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+
+dp=${1:-'DP-2'}
+
+echo $dp
+
+xrandr --output $dp --gamma 1.0:1.0:1.0
